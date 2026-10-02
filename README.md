@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on google cloud apps
 - 📫 How to reach me thupseesaleem05@gmail.com  
 - 😄 Pronouns: master
-- ⚡ Fun fact: Expresso
+- ⚡ Fun fact: Genuis
 
 <!---
 jthupsee/jthupsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
