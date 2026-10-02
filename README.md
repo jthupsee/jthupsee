@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jthupsee
-- 👀 I’m interested in google cloud
-- 🌱 I’m currently learning app in google cloud
+- 👋 Hi, I’m @jthupsee Jilanee Saleem Thupsee
+- 👀 I’m interested in google cloud, Google Gemini
+- 🌱 I’m currently rocking apps in google cloud run and running the multi billion dollar (CAD) Q-Qalam tensor matrix
 - 💞️ I’m looking to collaborate on google cloud apps
 - 📫 How to reach me thupseesaleem05@gmail.com  
 - 😄 Pronouns: master
